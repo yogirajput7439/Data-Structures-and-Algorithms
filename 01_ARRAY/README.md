@@ -1,1 +1,1 @@
-Readme About Array In DSA Journey.
+The All Question in this Folder will be based on the ARRAY
