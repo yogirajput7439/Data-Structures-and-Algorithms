@@ -1,2 +1,2 @@
 The All Question in this Folder will be based on the ARRAY
-Algorithm 
+Algorithm Used In Array..
