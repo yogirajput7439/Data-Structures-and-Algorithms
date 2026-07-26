@@ -1,3 +1,4 @@
 Binary Search New Options 
 New Jounery Start from here To Learn Something new...
 ### Algorithm To Solve the problem 
+# Binary Algorithms
