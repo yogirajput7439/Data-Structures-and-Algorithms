@@ -1,2 +1,2 @@
 Code 
-Queues Algo
+Queues Algorithm 
