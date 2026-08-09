@@ -4,3 +4,4 @@ New Journey Start from here To Learn Something new...
 # Binary Algorithm 
 In that Algorithm We search Using two Variables 
 Define Two Variables 
+ex int Start = 3
