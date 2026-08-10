@@ -5,3 +5,4 @@ New Journey Start from here To Learn Something new...
 In that Algorithm We search Using two Variables 
 Define Two Variables 
 ex int Start = 3
+Ex. End = 8 
