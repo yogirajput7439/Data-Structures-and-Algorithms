@@ -7,3 +7,4 @@ Define Two Variables
 ex int Start = 3
 Ex. End = 8 
 And the binary numbers begins from here
+Sort Algorithm 
