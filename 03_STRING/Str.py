@@ -1,3 +1,6 @@
+// Solution 
+
+
 class Solution(object):
     def toHex(self, num):
         if num == 0:
