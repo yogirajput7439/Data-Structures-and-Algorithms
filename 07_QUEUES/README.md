@@ -19,3 +19,4 @@ cout << q.front();  // 10
 q.pop();            // 10 हट गया
 
 cout << q.front();  // 20
+Enqueues - Last in last out 
