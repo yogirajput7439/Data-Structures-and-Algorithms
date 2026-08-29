@@ -20,4 +20,4 @@ q.pop();            // 10 हट गया
 
 cout << q.front();  // 20
 Enqueues - Last in last out 
-Dequeues - First in first out
+Dequeues - Last in first out
