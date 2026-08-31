@@ -23,3 +23,4 @@ Enqueues - Last in last out
 Dequeues - Last in first out
 
 Fast Algorithm Using Enqueue 
+Dequeues Also 
