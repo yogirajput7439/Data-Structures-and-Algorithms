@@ -24,3 +24,6 @@ Dequeues - Last in first out
 
 Fast Algorithm Using Enqueue 
 Dequeues Also 
+
+
+fast Algorithm for some questions 
