@@ -1,3 +1,6 @@
+sorting algorithms using two pointers aproach
+
+
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
