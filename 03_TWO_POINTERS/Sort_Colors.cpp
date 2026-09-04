@@ -1,4 +1,4 @@
-sorting algorithms using two pointers aproach
+// sorting algorithms using two pointers aproach
 
 
 class Solution {
