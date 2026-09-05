@@ -53,7 +53,7 @@ I am solving and uploading string-based problems regularly to improve my **probl
 
 **C++**
 
-All solutions in this folder are implemented in C++.
+All solutions in this folder are implemented in C++ and Python.
 
 ---
 
