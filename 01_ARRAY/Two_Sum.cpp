@@ -18,7 +18,7 @@ public:
     }
 };
 
-// 2 OPTIMEZED APPROACH --
+// 2 OPTIMEZED APPROACH -- O(n)
 
 class Solution {
 public:
