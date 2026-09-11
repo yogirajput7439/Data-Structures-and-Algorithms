@@ -1,4 +1,4 @@
-// 1 BRUTE FORCE APROACH ) --- 
+// 1 BRUTE FORCE APROACH ) --- O(N2)
 
 class Solution {
 public:
