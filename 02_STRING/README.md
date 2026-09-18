@@ -42,7 +42,7 @@ I am solving and uploading string-based problems regularly to improve my **probl
 
 | #  | Problem                          | Difficulty | Approach | Solution                  |
 | -- | -------------------------------- | ---------- | -------- | ------------------------- |
-| 01 | Two Sum / String Related Problem | Easy       | Hashing  | [Solution](./problem.cpp) |
+| 01 | Two Sum / String Related Problem | Easy       | Hashing  | [Solution]([./problem.cpp](https://github.com/yogirajput7439/Data-Structures-and-Algorithms/blob/main/01_ARRAY/Two_Sum.cpp)) |
 | 02 | Coming Soon...                   | —          | —        | —                         |
 
 > This table will be updated as I solve more problems.
