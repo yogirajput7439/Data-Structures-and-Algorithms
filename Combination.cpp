@@ -1,4 +1,4 @@
-Optimal Solution 
+Optimal Solution 0(N2)
 
 class Solution {
 public:
