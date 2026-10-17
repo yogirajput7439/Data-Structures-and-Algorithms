@@ -1,3 +1,5 @@
+Time complexity O(n)
+
 class Solution {
 public:
     int lengthOfLastWord(string s) {
