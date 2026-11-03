@@ -17,3 +17,23 @@ public:
     }
 };
 
+// 0ms Solution 
+
+class Solution {
+public:
+    int minMoves(vector<int>& nums) {
+        int n = nums.size();
+        int mn = 0;
+        long long sum = 0;
+
+        for(int i = 0; i < n; i++){
+            if(mn < nums[i]){
+                mn = nums[i];
+            }
+            sum += nums[i];
+        }
+
+        return n * mn - sum;
+    }
+};
+
