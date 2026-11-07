@@ -1,4 +1,4 @@
-// Optimal Solution 
+// Optimal Solution with 0(n) Time complexity
 
 class Solution {
 public:
