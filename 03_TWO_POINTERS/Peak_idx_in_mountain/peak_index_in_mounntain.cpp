@@ -1,4 +1,4 @@
-// Time complexity - 0(log n )
+Optimal Solution // Time complexity - 0(log n )
 
 class Solution {
 public:
