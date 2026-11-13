@@ -1,4 +1,4 @@
-Optimal Solution 
+Optimal Solution O(n)
 
 class Solution {
 public:
