@@ -1,4 +1,4 @@
-// Optimal Solution of O(m * n) 
+# // Optimal Solution of O(m * n)  
 
 class Solution:
     def uniquePaths(self, grid: List[List[int]]) -> int:
