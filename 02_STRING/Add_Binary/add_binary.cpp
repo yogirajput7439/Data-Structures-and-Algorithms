@@ -1,3 +1,5 @@
+// Optimal Solutions 
+
 class Solution {
  public:
   string addBinary(string a, string b) {
@@ -5,7 +7,7 @@ class Solution {
     int carry = 0;
     int i = a.length() - 1;
     int j = b.length() - 1;
-
+   
     while (i >= 0 || j >= 0 || carry) {
       if (i >= 0)
         carry += a[i--] - '0';
